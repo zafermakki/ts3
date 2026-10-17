@@ -178,9 +178,11 @@ function UsersPage() {
   return (
     <div className="page-content">
       <section className="page-heading">
-        <div>
+        <div className="page-heading-content">
           <span className="eyebrow">USER MANAGEMENT</span>
+
           <h1>Users Dashboard</h1>
+
           <p>
             View, search, update, and manage your users.
           </p>
